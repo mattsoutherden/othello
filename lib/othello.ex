@@ -1,0 +1,2 @@
+defmodule Othello do
+end
